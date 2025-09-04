@@ -46,5 +46,3 @@ TaskMate is a simple, beautiful mobile app for managing your daily tasks. Built 
 MIT
 
 ---
-
-Made with ❤️ using React Native &
